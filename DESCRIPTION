@@ -1,0 +1,10 @@
+Package: eqatools
+Title: Common tools for all projects
+Version: 0.0.10
+Authors@R: person("James", "Banasiak", email = "James_Banasiak@bcbsil.com", role = c("aut", "cre"))
+Description: This library contains a set of objects,functinos,tools that are useful for all projects
+Depends: R (>= 3.4.0)
+License: private
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
